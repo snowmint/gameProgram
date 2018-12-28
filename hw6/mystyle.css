@@ -1,0 +1,13 @@
+#info {
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  color: #a08fd8;
+}
+
+body {
+  overflow: hidden;
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
