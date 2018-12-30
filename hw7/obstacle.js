@@ -29,4 +29,3 @@ class Obstacle {
         else return false;
 	}
 }
-

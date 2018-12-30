@@ -1,6 +1,5 @@
 /*
 function sceneDesign() {
-
   // add obstacles to the scene
   scene.obstacles = [];
   scene.obstacles.push ( new Obstacle (new THREE.Vector3(150,0,150), 50) )
@@ -12,7 +11,6 @@ function sceneDesign() {
   scene.targets.push (new Target (2, new THREE.Vector3 (-200,0,150) ));
   scene.targets.push (new Target (3, new THREE.Vector3 (250,0,-200) ));
   scene.targets.push (new Target (4, new THREE.Vector3 (0,0,-200) ));
-
 }
 */
 
